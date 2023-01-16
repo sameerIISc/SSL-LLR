@@ -9,12 +9,13 @@ Convolutional neural networks have been successful in restoring images captured 
 #### If you find the resource useful, please cite the following :- )
 
 ```
-@InProceedings{Yang_2020_CVPR,
-author = {Yang, Wenhan and Wang, Shiqi and Fang, Yuming and Wang, Yue and Liu, Jiaying},
-title = {From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement},
-booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2020}
+@InProceedings{Malik_2023_WACV,
+    author    = {Malik, Sameer and Soundararajan, Rajiv},
+    title     = {Semi-Supervised Learning for Low-Light Image Restoration Through Quality Assisted Pseudo-Labeling},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2023},
+    pages     = {4105-4114}
 }
 ```
 
